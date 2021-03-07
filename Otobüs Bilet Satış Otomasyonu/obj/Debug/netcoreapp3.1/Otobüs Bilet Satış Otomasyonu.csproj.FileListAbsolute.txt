@@ -1,0 +1,15 @@
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\bin\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.exe
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\bin\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.deps.json
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\bin\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.runtimeconfig.json
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\bin\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.runtimeconfig.dev.json
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\bin\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.dll
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\bin\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.pdb
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.csprojAssemblyReference.cache
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs_Bilet_Satış_Otomasyonu.Form1.resources
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.AssemblyInfo.cs
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.dll
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.pdb
+C:\Users\user\Masaüstü\C# Proje\Otobüs Bilet Satış Otomasyonu\Otobüs Bilet Satış Otomasyonu\obj\Debug\netcoreapp3.1\Otobüs Bilet Satış Otomasyonu.genruntimeconfig.cache
